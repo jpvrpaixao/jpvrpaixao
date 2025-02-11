@@ -43,3 +43,11 @@ Tenho experiência em criar APIs robustas com Django, interfaces dinâmicas com 
 - Desenvolvimento de APIs RESTful com Django
 - Interfaces dinâmicas com Vue.js3
 - Web scraping e manipulação de dados
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
