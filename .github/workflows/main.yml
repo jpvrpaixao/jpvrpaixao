@@ -14,10 +14,11 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Substitua pelo seu usuário se necessário
+          github_user_name: jpvrpaixao  # Seu username do GitHub
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
