@@ -6,6 +6,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/4bda3952-a95d-4efd-a796-9e5d4b4b1fc1.svg?style=for-the-badge)](https://wakatime.com/@4bda3952-a95d-4efd-a796-9e5d4b4b1fc1)
 
+![](https://komarev.com/ghpvc/?username=jpvrpaixao&style=for-the-badge)
+
 ##
 
 ### **Sobre mim ✨**
