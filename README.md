@@ -14,7 +14,7 @@
 
 Sou **João Pedro**, desenvolvedor Full Stack Jr com foco em automação de processos (RPA) e desenvolvimento de aplicações web. Atualmente venho trabalhando onde:
 
-- 🔧 Implemento automações (RPA) para o mercado de crédito consignado.
+- 🔧 Implemento automações (RPA) para o mercado de garantidoras de taxas condominiais.
 - 🐍 Realizo análise e manipulação de dados com **Pandas**.
 - 🌐 Desenvolvo aplicações web usando **Django REST Framework** e **Vue.js3**.
 
